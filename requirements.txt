@@ -1,0 +1,20 @@
+cloudpickle==2.0.0
+cycler==0.11.0
+fonttools==4.31.2
+gym==0.22.0
+gym-notices==0.0.5
+importlib-metadata==4.11.2
+kiwisolver==1.4.0
+matplotlib==3.5.1
+numpy @ file:///D:/bld/numpy_1643959111320/work
+packaging==21.3
+Pillow @ file:///D:/bld/pillow_1645323413835/work
+pygame==2.1.2
+pyparsing==3.0.7
+python-dateutil==2.8.2
+six==1.16.0
+torch==1.10.2
+torchaudio==0.10.2
+torchvision==0.11.3
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1644850595256/work
+zipp==3.7.0
