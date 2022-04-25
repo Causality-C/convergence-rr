@@ -5,3 +5,6 @@ The training loss results are recorded every 2000 mini-batches and show that the
 
 ![image](https://user-images.githubusercontent.com/39445369/165134800-efe5b0a6-0228-4104-90e9-ea0e65d45646.png)
 
+# To Run
+1. Install all dependencies with `pip install -r requirements.txt`
+2. Run the program via `python converge.py`
